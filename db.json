@@ -1,0 +1,11 @@
+{
+  "checkins": [
+    { "car_id": 1, "parkingId": 1, "check_in_date": "2019-11-20T18:25:43.511Z", "check_out_date": "" },
+    { "car_id": 2, "parkingId": 1, "check_in_date": "2012-04-21T18:26:43.511Z", "check_out_date": "" },
+    { "car_id": 3, "parkingId": 2, "check_in_date": "2012-04-20T18:27:43.511Z", "check_out_date": "" }
+  ],
+  "parkings": [
+    { "id": 1, "dsc": "parkeetplaats A", "location": "Almere stad" },
+    { "id": 2, "dsc": "parkeerplaats B", "location": "Almere buiten" }
+  ]
+}
